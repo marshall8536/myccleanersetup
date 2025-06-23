@@ -24,7 +24,7 @@ A **CCleaner registration license key** is a unique alphanumeric code provided w
 
 When you activate CCleaner with license key, the software connects with the licensing server to validate your code. Once verified, it unlocks the pro features and allows for updates and technical support.
 
-Make sure to keep your license key safe and avoid sharing it publicly, as it’s tied to your purchase and account.
+[Make sure to keep your license key safe and avoid sharing it publicly, as it’s tied to your purchase and account.](https://myccleanersetup.readthedocs.io/)
 
 
 
